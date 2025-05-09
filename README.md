@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Hi there 👋 -->
+<h1 align="center">Hi, I'm Sarah 👩‍💻</h1>
+<p align="center">
+  Passionate about software development, design, and building cool things on the web.
+</p>
 
-<!--
-**sarahfatima1205/sarahfatima1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 My GitHub Contribution Landscape
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **full-stack development**
+- 🔭 I’m working on several personal projects (portfolio, web tools, and more)
+- 💬 Ask me about anything tech-related!
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOURUSERNAME) · [Twitter](https://twitter.com/YOURUSERNAME)
+- ⚡ Fun fact: I love solving logic puzzles and UI design challenges.
+
+---
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahfatima1205&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahfatima1205&theme=radical" width="45%" />
+</p>
+
+---
+
+### ✨ Latest Projects
+
+- 🎨 [Your Portfolio Website](https://yourportfolio.com) — personal site built with HTML/CSS/React
+- 📚 [Mini Learning Platform](https://github.com/sarahfatima1205/project-name) — small edtech concept
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
