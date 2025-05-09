@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 <h1 align="center">Hi, I'm Sarah 👩‍💻</h1>
 <p align="center">
-  Passionate about software development, design, and building cool things on the web.
+  Passionate about software development, machine learning, and building cool things! 
 </p>
 
 ---
@@ -15,11 +15,10 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **full-stack development**
-- 🔭 I’m working on several personal projects (portfolio, web tools, and more)
+- 🌱 I’m currently a sophomore at IIT Jodhpur, majoring in Electrical Engineering! My passion resonates with the technological landscape!
 - 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOURUSERNAME) · [Twitter](https://twitter.com/YOURUSERNAME)
-- ⚡ Fun fact: I love solving logic puzzles and UI design challenges.
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/sarahfatima12/)) 
+- ⚡ Fun fact: I love exploring things which boost my learnings!
 
 ---
 
@@ -43,11 +42,6 @@
 </p>
 
 ---
-
-### ✨ Latest Projects
-
-- 🎨 [Your Portfolio Website](https://yourportfolio.com) — personal site built with HTML/CSS/React
-- 📚 [Mini Learning Platform](https://github.com/sarahfatima1205/project-name) — small edtech concept
 
 ---
 
