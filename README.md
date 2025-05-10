@@ -8,7 +8,7 @@
 
 ### 📊 My GitHub Contribution Landscape
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </p>
 
 ---
