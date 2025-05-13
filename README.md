@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently a sophomore at IIT Jodhpur, majoring in Electrical Engineering! My passion resonates with the technological landscape!
 - 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/sarahfatima12/)) 
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/sarahfatima12](https://www.linkedin.com/in/sarahfatima12/)) 
 - ⚡ I love exploring things which boost my learnings!
 
 ---
