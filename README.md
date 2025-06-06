@@ -45,9 +45,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahfatima1205&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahfatima1205&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahfatima1205&show_icons=true&theme=radical" width="80%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahfatima1205&theme=radical" width="80%" />
+</p>
+
 
 ---
 
