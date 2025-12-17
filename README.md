@@ -15,10 +15,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently a sophomore at IIT Jodhpur, majoring in Electrical Engineering! My passion resonates with the technological landscape!
-- 💬 Ask me about anything tech-related!
+- 🌱 I’m a pre-final year student at IIT Jodhpur, majoring in Electrical Engineering! My passion resonates with the technological landscape!
+- 💬 Currently working on Fullstack development and Parallel Computing! 
 - 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/sarahfatima12](https://www.linkedin.com/in/sarahfatima12/)) 
-- ⚡ I love exploring things which boost my learnings!
 
 ---
 
@@ -47,10 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarahfatima1205&show_icons=true&theme=radical" width="80%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahfatima1205&theme=radical" width="80%" />
-</p>
+>
 
 
 ---
